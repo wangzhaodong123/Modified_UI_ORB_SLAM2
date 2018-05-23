@@ -4,4 +4,4 @@
 	用修改后的Viewer.cc和Viewer.h直接替换ORB_SLAM2源码中的相应文件；
 	
   
-  ./build.sh或其他指令重新编译即可；
+  	./build.sh或其他指令重新编译即可；
